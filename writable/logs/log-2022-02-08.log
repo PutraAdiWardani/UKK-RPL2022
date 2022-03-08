@@ -1,0 +1,21 @@
+CRITICAL - 2022-02-08 19:26:45 --> Class 'App\Models\CatatanPerjalanan_model' not found
+#0 D:\UKK2022\ukk\system\CodeIgniter.php(825): App\Controllers\CatatanPerjalanan->index()
+#1 D:\UKK2022\ukk\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CatatanPerjalanan))
+#2 D:\UKK2022\ukk\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK2022\ukk\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK2022\ukk\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK2022\\ukk\\...')
+#5 {main}
+CRITICAL - 2022-02-08 19:28:37 --> Class 'App\Models\CatatanPerjalanan_model' not found
+#0 D:\UKK2022\ukk\system\CodeIgniter.php(825): App\Controllers\CatatanPerjalanan->index()
+#1 D:\UKK2022\ukk\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CatatanPerjalanan))
+#2 D:\UKK2022\ukk\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK2022\ukk\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK2022\ukk\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK2022\\ukk\\...')
+#5 {main}
+CRITICAL - 2022-02-08 19:31:36 --> Class 'App\Models\CatatanPerjalanan_model' not found
+#0 D:\UKK2022\ukk\system\CodeIgniter.php(825): App\Controllers\IsiData->simpan()
+#1 D:\UKK2022\ukk\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK2022\ukk\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK2022\ukk\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK2022\ukk\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK2022\\ukk\\...')
+#5 {main}
